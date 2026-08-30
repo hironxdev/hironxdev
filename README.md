@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Hirun Kovida
 
-### Full-Stack Developer · UI/UX Designer · Web & Cloud Engineer
+### Full-Stack Developer · UI/UX Designer · Web & Cloud Engineering
 
 I build complete digital products — from **UI/UX design and frontend development to backend systems, databases, APIs, deployment, hosting, and production infrastructure.**
 
@@ -36,7 +36,7 @@ I work across the entire development lifecycle — designing interfaces, develop
 ### 💻 Languages
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,java,html,css" />
+  <img src="https://skillicons.dev/icons?i=typescript,javascript,python,html,css" />
 </p>
 
 ### ⚛️ Frontend
@@ -48,19 +48,19 @@ I work across the entire development lifecycle — designing interfaces, develop
 ### ⚙️ Backend
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
 </p>
 
 ### 🗄️ Databases
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis" />
 </p>
 
 ### ☁️ Hosting, DevOps & Infrastructure
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=linux,docker,nginx,vercel,git,github" />
+  <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,git,github" />
 </p>
 
 ### 🎨 Design & Development Tools
@@ -71,41 +71,6 @@ I work across the entire development lifecycle — designing interfaces, develop
 
 ---
 
-
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=hironxdev&show_icons=true&hide_border=true&theme=transparent&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hironxdev&layout=compact&hide_border=true&theme=transparent"
-    height="170"
-  />
-</p>
-
----
-
-## 🔥 GitHub Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=hironxdev&theme=transparent&hide_border=true"
-  />
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=hironxdev&theme=flat&no-frame=true&no-bg=true&margin-w=10"
-  />
-</p>
-
----
 
 ## 📈 Development Focus
 
